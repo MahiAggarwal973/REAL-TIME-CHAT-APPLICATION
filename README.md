@@ -2,6 +2,9 @@ PROJECT TITLE:
 ##Real-Time Chat Application (MERN Stack):
 A full-stack Real-Time Chat Application built using the MERN stack with Socket.IO for instant messaging. This project demonstrates real-time communication, authentication, and scalable full-stack development practices.
 
+##LIVE WEBSITE: 
+https://real-time-chat-application-phi-drab.vercel.app
+
 ##Features:
 1.User Authentication (Login & Signup)
 2.Real-time one-to-one messaging
